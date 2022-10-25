@@ -1,8 +1,6 @@
 [server]
 
 [file_manager]
-config_path = ~/klipper_config
-log_path = ~/klipper_logs
 queue_gcode_uploads = False
 enable_object_processing = True
 
